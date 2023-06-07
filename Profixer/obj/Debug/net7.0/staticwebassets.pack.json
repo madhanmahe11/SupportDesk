@@ -1,0 +1,497 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Profixer.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Profixer.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\css\\bootstrap-datetimepicker.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-datetimepicker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\css\\datatables.bundle.css",
+      "PackagePath": "staticwebassets\\assets\\css\\datatables.bundle.css"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\css\\feathericon.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\feathericon.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\fonts\\MaterialIcons-Regular.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\MaterialIcons-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\fonts\\MaterialIcons-Regular.html",
+      "PackagePath": "staticwebassets\\assets\\fonts\\MaterialIcons-Regular.html"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\fonts\\MaterialIcons-Regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\MaterialIcons-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\fonts\\MaterialIcons-Regular.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\MaterialIcons-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\fonts\\feathericon.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\feathericon.eot"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\fonts\\feathericon.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\feathericon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\fonts\\feathericon.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\feathericon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\fonts\\feathericon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\feathericon.woff"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\fonts\\feathericond41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\feathericond41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.html",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.html"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\img\\Total.png",
+      "PackagePath": "staticwebassets\\assets\\img\\Total.png"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\img\\ac_icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\ac_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\img\\accept.png",
+      "PackagePath": "staticwebassets\\assets\\img\\accept.png"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\img\\accepted.png",
+      "PackagePath": "staticwebassets\\assets\\img\\accepted.png"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\img\\assign.png",
+      "PackagePath": "staticwebassets\\assets\\img\\assign.png"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\img\\assigned.png",
+      "PackagePath": "staticwebassets\\assets\\img\\assigned.png"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\img\\booked.png",
+      "PackagePath": "staticwebassets\\assets\\img\\booked.png"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\img\\cancel.png",
+      "PackagePath": "staticwebassets\\assets\\img\\cancel.png"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\img\\change_account_details.png",
+      "PackagePath": "staticwebassets\\assets\\img\\change_account_details.png"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\img\\change_password.png",
+      "PackagePath": "staticwebassets\\assets\\img\\change_password.png"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\img\\completed.png",
+      "PackagePath": "staticwebassets\\assets\\img\\completed.png"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\img\\complient_1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\complient_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\img\\complient_2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\complient_2.png"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\img\\dbzeus.png",
+      "PackagePath": "staticwebassets\\assets\\img\\dbzeus.png"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\img\\icon1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon1.png"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\img\\icon10.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon10.png"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\img\\icon11.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon11.png"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\img\\icon2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon2.png"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\img\\icon3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon3.png"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\img\\icon4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon4.png"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\img\\icon5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon5.png"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\img\\icon6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon6.png"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\img\\icon7.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon7.png"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\img\\icon8.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon8.png"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\img\\icon9.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon9.png"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\img\\img-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\img-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\img\\in-progress.png",
+      "PackagePath": "staticwebassets\\assets\\img\\in-progress.png"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\img\\logo-small.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-small.png"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\img\\on-hold.png",
+      "PackagePath": "staticwebassets\\assets\\img\\on-hold.png"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\img\\overview.png",
+      "PackagePath": "staticwebassets\\assets\\img\\overview.png"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\img\\overview_bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\overview_bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\img\\placeholder.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\placeholder.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\img\\pluming.png",
+      "PackagePath": "staticwebassets\\assets\\img\\pluming.png"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\img\\plus.png",
+      "PackagePath": "staticwebassets\\assets\\img\\plus.png"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\img\\popup_icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\popup_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\img\\privacy_policy.png",
+      "PackagePath": "staticwebassets\\assets\\img\\privacy_policy.png"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\img\\profiles\\avatar-01.png",
+      "PackagePath": "staticwebassets\\assets\\img\\profiles\\avatar-01.png"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\img\\profixer_login.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\profixer_login.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\img\\pulmbing_icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\pulmbing_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\img\\re-assign.png",
+      "PackagePath": "staticwebassets\\assets\\img\\re-assign.png"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\img\\reject.png",
+      "PackagePath": "staticwebassets\\assets\\img\\reject.png"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\img\\rejected.png",
+      "PackagePath": "staticwebassets\\assets\\img\\rejected.png"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\img\\resolved.png",
+      "PackagePath": "staticwebassets\\assets\\img\\resolved.png"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\img\\tick.png",
+      "PackagePath": "staticwebassets\\assets\\img\\tick.png"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\img\\ticket_details1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\ticket_details1.png"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\img\\ticket_details2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\ticket_details2.png"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\img\\view.png",
+      "PackagePath": "staticwebassets\\assets\\img\\view.png"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\img\\water_mark.png",
+      "PackagePath": "staticwebassets\\assets\\img\\water_mark.png"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\js\\bootstrap-datetimepicker.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap-datetimepicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\js\\chart.morris.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart.morris.js"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\js\\form-validation.js",
+      "PackagePath": "staticwebassets\\assets\\js\\form-validation.js"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\js\\jquery.maskedinput.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.maskedinput.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\js\\jvectormap.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jvectormap.js"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\js\\mask.js",
+      "PackagePath": "staticwebassets\\assets\\js\\mask.js"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\js\\script.js",
+      "PackagePath": "staticwebassets\\assets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\plugins\\datatables\\datatables.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\datatables\\datatables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\plugins\\datatables\\datatables.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\datatables\\datatables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\plugins\\datatables\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\datatables\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\plugins\\fullcalendar\\fullcalendar.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fullcalendar\\fullcalendar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\plugins\\fullcalendar\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fullcalendar\\fullcalendar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\plugins\\fullcalendar\\jquery.fullcalendar.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fullcalendar\\jquery.fullcalendar.js"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\plugins\\jvectormap\\jquery-jvectormap-2.0.3.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jvectormap\\jquery-jvectormap-2.0.3.css"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\plugins\\jvectormap\\jquery-jvectormap-2.0.3.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jvectormap\\jquery-jvectormap-2.0.3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\plugins\\jvectormap\\jquery-jvectormap-in-mill.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jvectormap\\jquery-jvectormap-in-mill.js"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\plugins\\jvectormap\\jquery-jvectormap-ru-mill.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jvectormap\\jquery-jvectormap-ru-mill.js"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\plugins\\jvectormap\\jquery-jvectormap-uk_countries-mill.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jvectormap\\jquery-jvectormap-uk_countries-mill.js"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\plugins\\jvectormap\\jquery-jvectormap-us-aea.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jvectormap\\jquery-jvectormap-us-aea.js"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\plugins\\jvectormap\\jquery-jvectormap-world-mill.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jvectormap\\jquery-jvectormap-world-mill.js"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\plugins\\light-gallery\\css\\lightgallery.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\light-gallery\\css\\lightgallery.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\plugins\\light-gallery\\fonts\\lgd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\plugins\\light-gallery\\fonts\\lgd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\plugins\\light-gallery\\fonts\\lgd641.eot",
+      "PackagePath": "staticwebassets\\assets\\plugins\\light-gallery\\fonts\\lgd641.eot"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\plugins\\light-gallery\\fonts\\lgd641.svg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\light-gallery\\fonts\\lgd641.svg"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\plugins\\light-gallery\\fonts\\lgd641.ttf",
+      "PackagePath": "staticwebassets\\assets\\plugins\\light-gallery\\fonts\\lgd641.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\plugins\\light-gallery\\fonts\\lgd641.woff",
+      "PackagePath": "staticwebassets\\assets\\plugins\\light-gallery\\fonts\\lgd641.woff"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\plugins\\light-gallery\\img\\loading.gif",
+      "PackagePath": "staticwebassets\\assets\\plugins\\light-gallery\\img\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\plugins\\light-gallery\\img\\video-play.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\light-gallery\\img\\video-play.png"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\plugins\\light-gallery\\img\\vimeo-play.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\light-gallery\\img\\vimeo-play.png"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\plugins\\light-gallery\\img\\youtube-play.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\light-gallery\\img\\youtube-play.png"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\plugins\\light-gallery\\js\\lightgallery-all.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\light-gallery\\js\\lightgallery-all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\plugins\\morris\\morris.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\morris\\morris.css"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\plugins\\morris\\morris.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\morris\\morris.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\plugins\\raphael\\raphael.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\raphael\\raphael.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\plugins\\slimscroll\\jquery.slimscroll.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\slimscroll\\jquery.slimscroll.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\plugins\\summernote\\dist\\font\\summernotec360.eot",
+      "PackagePath": "staticwebassets\\assets\\plugins\\summernote\\dist\\font\\summernotec360.eot"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\plugins\\summernote\\dist\\font\\summernotec360.ttf",
+      "PackagePath": "staticwebassets\\assets\\plugins\\summernote\\dist\\font\\summernotec360.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\plugins\\summernote\\dist\\font\\summernotec360.woff",
+      "PackagePath": "staticwebassets\\assets\\plugins\\summernote\\dist\\font\\summernotec360.woff"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\plugins\\summernote\\dist\\summernote-bs4.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\summernote\\dist\\summernote-bs4.css"
+    },
+    {
+      "Id": "C:\\Users\\Madhan\\Documents\\SupportDesk\\SupportDesk\\Profixer\\wwwroot\\assets\\plugins\\summernote\\dist\\summernote-bs4.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\summernote\\dist\\summernote-bs4.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Profixer.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Profixer.props",
+      "PackagePath": "build\\Profixer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Profixer.props",
+      "PackagePath": "buildMultiTargeting\\Profixer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Profixer.props",
+      "PackagePath": "buildTransitive\\Profixer.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
